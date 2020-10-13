@@ -79,5 +79,9 @@
     "picker",
     "lightweight"
   ],
-  "browserslist": ["ie >= 9", "last 2 versions", "safari >= 7"]
+  "browserslist": [
+    "ie >= 9",
+    "last 2 versions",
+    "safari >= 7"
+  ]
 }
